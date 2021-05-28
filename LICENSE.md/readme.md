@@ -21,17 +21,17 @@ A group project for COMP2800 at BCIT, which let users find out how to get rid of
 ## Content
 Content of the project folder
  Top level of project folder: 
-* html     &emsp; &emsp; &emsp; &emsp;# folder for html file
-* images   &emsp; &emsp; &emsp; # folder only for menu system images. [<sup>1</sup>](#1)
-* script   &emsp; &emsp; &emsp; &emsp; # folder for javascript file 
+* html     &emsp; &emsp; &emsp; &emsp; &ensp; # folder for html file
+* images   &emsp; &emsp; &emsp;  &ensp;# folder only for menu system images. [<sup>1</sup>](#1)
+* script   &emsp; &emsp; &emsp; &emsp; &emsp; # folder for javascript file 
 * lib      &emsp; &emsp; &emsp; &emsp;# library will use
-* resource &emsp; &emsp; # folder for image, video, audio [<sup>1</sup>](#1)
-* routes   &emsp; &emsp; &emsp; # library and function for search page
-* style    &emsp; &emsp; &emsp;# folder for stylesheet, css file
+* resource &emsp; &emsp; &ensp; # folder for image, video, audio [<sup>1</sup>](#1)
+* routes   &emsp; &emsp; &emsp;  &ensp;# library and function for search page
+* style    &emsp; &emsp; &emsp; &emsp;# folder for stylesheet, css file
 * test     &emsp; &emsp; &emsp; &emsp;# folder for test files for app. Test plan can be found at: https://docs.google.com/spreadsheets/d/1XOZlptafdUSi7ySqCt-soiZbWpuQc3cBgyH9UVpyX7w/edit?usp=sharing
 * .gitignore &emsp; &emsp; # Git ignore file
 * README.md
-* 404.html   &emsp; &emsp; # Firebase hosting file for when a page is not found
+* 404.html   &emsp; &emsp;  &ensp; # Firebase hosting file for when a page is not found
 * index.html  &emsp; &emsp; # Firebase hosting landing page
 * other files of this hierarchy level used for firebase app hosting    
 
