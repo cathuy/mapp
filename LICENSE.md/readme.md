@@ -21,8 +21,8 @@ A group project for COMP2800 at BCIT, which let users find out how to get rid of
 ## Content
 Content of the project folder
  Top level of project folder: 
-* html     » # folder for html file
-* images   » # folder only for menu system images. <sup>1(#1)</sup>
+* html     >> # folder for html file
+* images   » # folder only for menu system images. <sup>1</sup>(#1)
 * script   » # folder for javascript file 
 * lib      » # library will use
 * resource » # folder for image, video, audio <sup>1</sup>
@@ -82,7 +82,7 @@ git checkout -b [name of your branch] dev
 20. Start developing the app
 
 
-<a name = "1"><sup>1</sup></a> All the images, video, audio information was used can be found at : https://docs.google.com/document/d/18KM4Na7CDSAgHgLOMyF4kJU254vvO_qGMWZwpUnFldM
+<a id = "1"><sup>1</sup></a> All the images, video, audio information was used can be found at : https://docs.google.com/document/d/18KM4Na7CDSAgHgLOMyF4kJU254vvO_qGMWZwpUnFldM
 
 
 
