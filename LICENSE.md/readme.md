@@ -26,13 +26,13 @@ Content of the project folder
 * script   &emsp; &emsp; &emsp; &emsp; &ensp; # folder for javascript file 
 * lib      &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;# library will use
 * resource &emsp; &emsp; &emsp; &emsp; # folder for image, video, audio [<sup>1</sup>](#1)
-* routes   &emsp; &emsp; &emsp;  &ensp;&ensp;# library and function for search page
-* style    &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;# folder for stylesheet, css file
+* routes   &emsp; &emsp; &emsp; &emsp;&ensp;# library and function for search page
+* style    &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp;# folder for stylesheet, css file
 * test     &emsp; &emsp; &emsp; &emsp; &emsp;&ensp;# folder for test files for app. Test plan can be found at: https://docs.google.com/spreadsheets/d/1XOZlptafdUSi7ySqCt-soiZbWpuQc3cBgyH9UVpyX7w/edit?usp=sharing
 * .gitignore &emsp; &emsp; &emsp; # Git ignore file
 * README.md
-* 404.html   &emsp; &emsp;  &ensp; # Firebase hosting file for when a page is not found
-* index.html  &emsp; &emsp;&nbsp; # Firebase hosting landing page
+* 404.html   &emsp; &emsp;  &emsp; # Firebase hosting file for when a page is not found
+* index.html  &emsp; &emsp;&emsp; # Firebase hosting landing page
 * other files of this hierarchy level used for firebase app hosting    
 
 
@@ -81,7 +81,7 @@ git checkout -b [name of your branch] dev
 19. jQuery 3.2.1 or newer, Bootstrap 5.0.0 or newer, Firebase app / auth / firestore 8.0.0 or newer, and Firebase UI 3.5.2 or newer are used and included as <script src="..."></script> (see bottom of <body> of html/index.html for example usage)
 20. Start developing the app
 
-
+# Others
 <a id = "1"><sup>1</sup></a> All the images, video, audio information was used can be found at : https://docs.google.com/document/d/18KM4Na7CDSAgHgLOMyF4kJU254vvO_qGMWZwpUnFldM
 
 
