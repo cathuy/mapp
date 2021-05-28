@@ -22,7 +22,7 @@ A group project for COMP2800 at BCIT, which let users find out how to get rid of
 Content of the project folder
  Top level of project folder: 
 * html     &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; # folder for html file
-* images   &emsp; &emsp; &emsp;  &ensp;&ensp; &nbsp;# folder only for menu system images. [<sup>1</sup>](#1)
+* images   &emsp; &emsp; &emsp;  &emsp; &ensp;# folder only for menu system images. [<sup>1</sup>](#1)
 * script   &emsp; &emsp; &emsp; &emsp; &ensp;  &nbsp; # folder for javascript file 
 * lib      &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;# library will use
 * resource &emsp; &emsp; &emsp; &emsp; # folder for image, video, audio [<sup>1</sup>](#1)
