@@ -24,7 +24,7 @@ A group project for COMP2800 at BCIT, which let users find out how to get rid of
 Content of the project folder
  Top level of project folder: 
 
-* html										 folder for html file
+* html										 ... folder for html file
 * script                   folder for javascript file 
 * resource                 folder for image, video, audio 
 * style                    folder for stylesheet, css file
